@@ -63,15 +63,16 @@ RoomEase was developed with a clear vision: **simplify complex hotel operations 
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/roomease.git
-   cd roomease
+   git clone https://github.com/atharv446546454/hotel-managment.git
+
+   cd hotel-managment
    ```
 
 2. Set up the database (import schema from `/db` folder)
 
 3. Configure the database connection in the backend files
 
-4. Run the application on a local server (e.g., XAMPP, WAMP, or Node server)
+4. Run the application on a local server (e.g., XAMPP)
 
 ---
 
